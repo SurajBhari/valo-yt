@@ -1,0 +1,5 @@
+flask
+chat-downloader
+requests
+valo-api
+gunicorn
